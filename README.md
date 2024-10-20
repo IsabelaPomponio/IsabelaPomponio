@@ -2,7 +2,7 @@
 
 ### About me:🙃
 
-I am a Systems development student at Etec in Taboão da Serra.
+I am a Systems development student at Etec in Taboão da Serra..
 Still a beginner in the area, I try to understand more about the programming community.
 
 I love drawing and painting as much as learning new things.
