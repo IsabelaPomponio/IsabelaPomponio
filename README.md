@@ -1,6 +1,13 @@
 ### Hi there, I am Bebela
 
-##About me:🙃##
+About me:🙃
+
+I am a Systems development student at Etec in Taboão da Serra.
+Still a beginner in the area, I try to understand more about the programming community.
+
+I love drawing and painting as much as learning new things.
+
+
 <!--
 **IsabelaPomponio/IsabelaPomponio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
