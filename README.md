@@ -1,6 +1,6 @@
 ### Hi there, I am Bebela
 
-##About me🙃
+##About me:🙃##
 <!--
 **IsabelaPomponio/IsabelaPomponio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
