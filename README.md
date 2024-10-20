@@ -7,6 +7,8 @@ Still a beginner in the area, I try to understand more about the programming com
 
 I love drawing and painting as much as learning new things.
 
+In addition to developing, I study electronics and know how to work with Arduinos.
+
 
 <!--
 **IsabelaPomponio/IsabelaPomponio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
